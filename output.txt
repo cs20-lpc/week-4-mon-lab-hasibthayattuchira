@@ -1,0 +1,41 @@
+TESTING WITH INTEGERS
+Initial List - intList: List is empty, no elements to display.
+
+New List (appended 1, 2, 3) - intList: 1 --> 2 --> 3
+
+Size after append: 3
+Index 1: 1
+Replaced index 1 with 10: 10 --> 2 --> 3
+
+Clearing intList
+Cleared: List is empty, no elements to display.
+
+TESTING WITH DOUBLES
+New List (appended 1.1, 2.2, 3.3, 4.4) - doubleList: 1.1 --> 2.2 --> 3.3 --> 4.4    
+
+Size after append: 4
+Index 2: 2.2
+Replaced index 2 with 10.1: 1.1 --> 10.1 --> 3.3 --> 4.4
+
+Clearing doubleList
+Cleared: List is empty, no elements to display.
+
+TESTING WITH STRINGS
+New List (appended Pizza, Burger, Taco, Burrito, Noodles): Pizza --> Burger --> Taco --> Burrito --> Noodles
+
+Size after append: 5
+Index 3: Taco
+Replaced index 1 with Cake: Pizza --> Burger --> Cake --> Burrito --> Noodles       
+
+Clearing strList
+Cleared: List is empty, no elements to display.
+
+TESTING WITH CHARACTERS
+New List (appended A, B, C, D, E, F): A --> B --> C --> D --> E --> F
+
+Size after append: 6
+Index 4: D
+Replaced index 4 with Z: A --> B --> C --> Z --> E --> F
+
+Clearing charList
+Cleared: List is empty, no elements to display.
